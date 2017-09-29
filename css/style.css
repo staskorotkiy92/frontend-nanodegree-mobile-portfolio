@@ -47,3 +47,26 @@ footer span { float: right; font-style: italic; }
   body { font-size: 12px;}
   header p { padding-left: 4.5em;}
 }
+
+.main {
+border:1px solid gray;
+}
+
+.photo {
+  float: left;
+  margin: 15px 15px 10px 15px;
+}
+
+.info {
+  float: left;
+  width: 300px;
+  text-align:justify;
+  margin-left: 20px;
+  margin-top: 75px;
+  font-style: italic;
+}
+
+.clearfix {
+clear:both;
+margin: 0 auto;
+}
